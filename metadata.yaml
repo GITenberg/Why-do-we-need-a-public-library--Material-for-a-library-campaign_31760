@@ -1,0 +1,28 @@
+_repo: Why-do-we-need-a-public-library--Material-for-a-library-campaign_31760
+_version: 0.1.0
+contributor:
+  compiler:
+    agent_name: Hadley, Chalmers
+    birthdate: 1872
+    deathdate: 1958
+    gutenberg_agent_id: '35451'
+    url: http://www.gutenberg.org/2009/agents/35451
+covers:
+- cover_type: generated
+  image_path: cover.png
+description: ''
+gutenberg_issued: '2010-03-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31760'
+  lccn: '17011411'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Public libraries'
+- !lcc 'Z'
+- !lcsh 'Library extension'
+title: Why do we need a public library? Material for a library campaign
+url: http://www.gutenberg.org/ebooks/31760
