@@ -11,6 +11,8 @@ covers:
 - cover_type: generated
   image_path: cover.png
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/31760#Why-do-we-need-a-public-library--Material-for-a-library-campaign
 gutenberg_issued: '2010-03-24'
 gutenberg_type: Text
 identifiers:
